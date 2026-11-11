@@ -92,6 +92,3 @@ olla_5g_project/
 
 If a 5G Toolbox call errors on the first run, the MATLAB error message names the exact function and line. Check that all three toolboxes are installed (`ver`) and that all files are in the current folder.
 
-## Author
-
-Arslan Zafar, MSc Computer Science, University of Stavanger
